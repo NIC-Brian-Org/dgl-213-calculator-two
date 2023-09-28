@@ -1,1 +1,7 @@
-# dgl-213-calulator-two
+## DGL 213 Calculator Two
+
+You start this application as follows:
+
+```shell
+npx live-server docs
+```
